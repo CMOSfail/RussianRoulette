@@ -2,7 +2,6 @@
 
 Hi there, I'm Itamar (aka @CMOSfail) and welcome to my simple yet exciting project - a C# implementation of the infamous game, **Russian Roulette**! This project is aimed at helping students understand the basic concepts of Object-Oriented Programming (OOP) using a simple and fun example. 
 
-![Russian Roulette](https://images.example.com/russian-roulette.jpg)
 
 ## Table of Contents
 
