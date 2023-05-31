@@ -1,5 +1,7 @@
 # Russian Roulette Game :gun:
 
+![Contributors](https://img.shields.io/github/contributors/CMOSfail/RussianRoulette?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/CMOSfail/RussianRoulette?style=social) ![Issues](https://img.shields.io/github/issues/CMOSfail/RussianRoulette) ![License](https://img.shields.io/github/license/CMOSfail/RussianRoulette) 
+
 Hi there, I'm Itamar (aka @CMOSfail) and welcome to my simple yet exciting project - a C# implementation of the infamous game, **Russian Roulette**! This project is aimed at helping students understand the basic concepts of Object-Oriented Programming (OOP) using a simple and fun example. 
 
 
