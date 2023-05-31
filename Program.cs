@@ -9,7 +9,7 @@ using System.Speech.Synthesis;
 using System.ComponentModel;
 using System.Media;
 
-namespace RussianRoulette02
+namespace RussianRoulette
 {
     internal class Program
     {
@@ -58,7 +58,7 @@ namespace RussianRoulette02
 
                 if (slots[slot-1].IsLoaded)
                 {
-                    player.SoundLocation = @"C:\Users\thebl\source\repos\RussianRoulette02\bonk-sound-effect-36055.wav";
+                    player.SoundLocation = @"C:\Users\thebl\source\repos\RussianRoulette\bonk-sound-effect-36055.wav";
                     player.PlaySync();
                     Console.WriteLine("Bang! You got shot! Game Over");
                     synth.Speak("Bang! You got shot! Game Over");
@@ -66,7 +66,7 @@ namespace RussianRoulette02
                 }
                 if (!slots[slot-1].IsLoaded)
                 {
-                    player.SoundLocation = @"C:\Users\thebl\source\repos\RussianRoulette02\evil-laugh-49831.wav";
+                    player.SoundLocation = @"C:\Users\thebl\source\repos\RussianRoulette\evil-laugh-49831.wav";
                     player.PlaySync();
                     Console.WriteLine("It looks like you will live to see another day...");
                     synth.Speak("It looks like you will live to see another day...");

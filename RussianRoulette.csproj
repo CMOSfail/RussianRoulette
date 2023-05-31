@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{18E444F3-D090-4880-81D8-9E4F9C5CFF01}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>RussianRoulette02</RootNamespace>
-    <AssemblyName>RussianRoulette02</AssemblyName>
+    <RootNamespace>RussianRoulette</RootNamespace>
+    <AssemblyName>RussianRoulette</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
